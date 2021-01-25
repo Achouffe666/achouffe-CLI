@@ -8,8 +8,6 @@ console.log('Hello, Node.JS!');
 let year = (new Date().getFullYear());
 let countryListed = countryList.getNames();
 
-console.log(countryListed);
-
 (async () => {
     const response = await prompts({
       type: 'text',
