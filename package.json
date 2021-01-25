@@ -1,0 +1,26 @@
+{
+  "name": "achouffe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Achouffe666/achouffe-CLI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Achouffe666/achouffe-CLI/issues"
+  },
+  "homepage": "https://github.com/Achouffe666/achouffe-CLI#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "country-list": "^2.2.0",
+    "node-fetch": "^2.6.1",
+    "prompt": "^1.1.0",
+    "prompts": "^2.4.0"
+  }
+}
