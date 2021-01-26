@@ -4,3 +4,4 @@ Holidates: a NPM package that allows you to type a country wich return all the h
 
 command to install package => npm i @achouffe/holidates
 then type => holidates
+or type => 'npx @achouffe/holidates' to execute it remotely
